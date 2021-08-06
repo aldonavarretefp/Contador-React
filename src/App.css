@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(180deg, #9c1aff 0%, rgb(119, 0, 255) 100%) center
+    center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Lato", sans-serif;
+  color: whitesmoke;
+}
